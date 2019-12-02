@@ -3,7 +3,6 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class aoc1 {
-
     public static void main(String[] args) {
         String fileName = args[0];
         int sum = 0;
